@@ -6,7 +6,7 @@ public class KonfliktusKezeles {
 
         String nev1 = "Ódor Norbert";
         String nev2 = "X.Y.";
-        
+        String nev3;
     }
     
 }
